@@ -1,0 +1,41 @@
+body{
+	background-color: black;
+}
+h1{
+	margin: 100px;
+	text-align: center;
+	font-weight: 300;
+}
+.login{
+
+	width: 350px;
+	background: #7FFFD4;
+	/*meletakan form ke tengah*/
+	margin: 100px auto;
+	padding: 30px 20px;
+}
+.log{
+	/*membuat lebar form sesuai layar luar*/
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.tombol{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border:none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+.cent{
+	margin-top: 20px;
+}
+.link{
+	color: blue;
+	text-decoration: none;
+	font-size: 11pt;
+}
